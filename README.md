@@ -4,6 +4,11 @@
 
 Agente inteligente de pruebas de penetración que integra múltiples proveedores de IA (OpenAI, Anthropic, etc.) con capacidades de reconocimiento de red, escaneo de puertos y análisis de infraestructura. Diseñado con patrones profesionales de arquitectura de software.
 
+
+<img width="919" height="222" alt="prueba" src="https://github.com/user-attachments/assets/21fcaf4a-493e-4b04-943e-4acb803ad801" />
+
+
+
 ---
 
 ## 🎯 Características Principales
