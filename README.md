@@ -1,4 +1,4 @@
-# README.md - Agente IA de Pruebas de Penetración (Nivel Élite)
+# Agente IA de Pruebas de Penetración (Nivel Élite)
 
 ## 📋 Descripción
 
@@ -392,6 +392,4 @@ Las contribuciones son bienvenidas. Por favor:
 
 ---
 
-## 📧 Contacto
-
-Para preguntas o reportar bugs: `issues@github.com`
+## 📧 Contacto 3505416339
